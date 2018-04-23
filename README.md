@@ -1,4 +1,11 @@
-<div><a href="http://hamonikr.org/menuDownload_RTM" target="_blank">http://hamonikr.org/menuDownload_RTM</a></div>
+https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-amd64-18.3-HWE.iso_171211/LinuxMint-ko-amd64-18.3-HWE.z01
+https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-amd64-18.3-HWE.iso_171211/LinuxMint-ko-amd64-18.3-HWE.z02
+https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-amd64-18.3-HWE.iso_171211/LinuxMint-ko-amd64-18.3-HWE.z03
+https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-amd64-18.3-HWE.iso_171211/LinuxMint-ko-amd64-18.3-HWE.zip
+
+<div>하모니카 커뮤니티 : <a href="http://hamonikr.org/menuDownload_RTM" target="_blank">http://hamonikr.org</a></div>
+
+<div>하모니카 커뮤니티 이용약관 : <a href="http://hamonikr.org/menuDownload_RTM" target="_blank">http://hamonikr.org/menuDownload_RTM</a></div>
 
 <div class="document_1411_155 xe_content"><div><br></div>
 <div style="padding: 10px; border: 3px solid rgb(142, 180, 230); border-image: none; color: rgb(37, 37, 37); line-height: 22.39px; font-family: sans-serif; font-size: 14px; background-color: rgb(249, 252, 255);">
