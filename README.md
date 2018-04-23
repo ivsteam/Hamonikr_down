@@ -1,8 +1,3 @@
-https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-amd64-18.3-HWE.iso_171211/LinuxMint-ko-amd64-18.3-HWE.z01
-https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-amd64-18.3-HWE.iso_171211/LinuxMint-ko-amd64-18.3-HWE.z02
-https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-amd64-18.3-HWE.iso_171211/LinuxMint-ko-amd64-18.3-HWE.z03
-https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-amd64-18.3-HWE.iso_171211/LinuxMint-ko-amd64-18.3-HWE.zip
-
 <div>하모니카 커뮤니티 : <a href="http://hamonikr.org/menuDownload_RTM" target="_blank">http://hamonikr.org</a></div>
 
 <div>하모니카 커뮤니티 이용약관 : <a href="http://hamonikr.org/menuDownload_RTM" target="_blank">http://hamonikr.org/menuDownload_RTM</a></div>
@@ -321,3 +316,9 @@ https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-amd64-18
   <dl style="color: rgb(37, 37, 37); line-height: 22.39px; font-family: sans-serif; font-size: 14px; margin-top: 0.2em; margin-bottom: 0.5em; background-color: rgb(255, 255, 255);">
     <dd style="line-height: 1.5em; margin-right: 0px; margin-bottom: 0.1em; margin-left: 1.6em;">&nbsp;    </dd>
   </dl></div>
+
+<h1>하모니카 커뮤니티 배포판 MoorDev MATE 64bit 1.0 (2017.12.11)</h1>
+File1 : https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-amd64-18.3-HWE.iso_171211/LinuxMint-ko-amd64-18.3-HWE.z01<br/>
+File2 : https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-amd64-18.3-HWE.iso_171211/LinuxMint-ko-amd64-18.3-HWE.z02<br/>
+File3 : https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-amd64-18.3-HWE.iso_171211/LinuxMint-ko-amd64-18.3-HWE.z03<br/>
+File4 : https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-amd64-18.3-HWE.iso_171211/LinuxMint-ko-amd64-18.3-HWE.zip<br/>
