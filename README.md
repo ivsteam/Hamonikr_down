@@ -7,7 +7,7 @@
       <tbody>
         <tr>
           <td class="ombox-text"><div style="padding: 0.3em 0px; text-align: center; font-weight: bold; background-color: rgb(249, 252, 255);">
-              <div align="left" style="font-size: 24px;"><span style="color: rgb(42, 114, 191);">﻿</span></div><div align="left" style="text-align: center; letter-spacing: -1px; font-size: 26px;"><span style="color: rgb(42, 114, 191);">이용 약관</span></div>
+              <div align="left" style="font-size: 24px;"><span style="color: rgb(42, 114, 191);">﻿</span></div><div align="left" style="text-align: center; letter-spacing: -1px; font-size: 26px;"><h1 style="color: rgb(42, 114, 191);">이용 약관</h1></div>
               <div style="font-size: 17px;"></div>
             </div>
             <p style="line-height: inherit; margin-top: 0.5em; margin-bottom: 0.5em;"><br>
@@ -316,7 +316,7 @@
     <dd style="line-height: 1.5em; margin-right: 0px; margin-bottom: 0.1em; margin-left: 1.6em;">&nbsp;    </dd>
   </dl></div>
 
-<h2>하모니카 커뮤니티 배포판 MoorDev MATE 64bit 1.0 (2017.12.11)</h2>
+<h4 style="font-weight: bold;">하모니카 커뮤니티 배포판 MoorDev MATE 64bit 1.0 (2017.12.11)</h4>
 File1 : https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-amd64-18.3-HWE.iso_171211/LinuxMint-ko-amd64-18.3-HWE.z01<br/>
 File2 : https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-amd64-18.3-HWE.iso_171211/LinuxMint-ko-amd64-18.3-HWE.z02<br/>
 File3 : https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-amd64-18.3-HWE.iso_171211/LinuxMint-ko-amd64-18.3-HWE.z03<br/>
@@ -324,23 +324,23 @@ File4 : https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-
 <br/>
 <br/>
 <br/>
-<h2>하모니카 2.1 로사-mate-HamoniKR RC1버전 64bit (2016년 1월 25일(월))</h2>
+<h4 style="font-weight: bold;">하모니카 2.1 로사-mate-HamoniKR RC1버전 64bit (2016년 1월 25일(월))</h4>
 <br/>
 <br/>
-<h2>하모니카 2.1 로사-mate-HamoniKR RC1버전 32bit (2016년 1월 25일(월))</h2>
+<h4 style="font-weight: bold;">하모니카 2.1 로사-mate-HamoniKR RC1버전 32bit (2016년 1월 25일(월))</h4>
 <br/>
 <br/>
-<h1>이전버전</h1>
+<h4 style="font-weight: bold;">이전버전</h4>
 <br/>
-<h2>이전버전 64bit (2015년 7월 15일(수))</h2>
-<br/>
-<br/>
-<h2>이전버전 32bit (2015년 7월 15일(수))</h2>
+<h4 style="font-weight: bold;">64bit (2015년 7월 15일(수))</h4>
 <br/>
 <br/>
-<h2>이전버전 64bit (2015년 7월 15일(수))</h2>
+<h4 style="font-weight: bold;">32bit (2015년 7월 15일(수))</h4>
 <br/>
 <br/>
-<h2>이전버전 32bit (2015년 7월 15일(수))</h2>
+<h4 style="font-weight: bold;">64bit (2015년 7월 15일(수))</h4>
+<br/>
+<br/>
+<h4 style="font-weight: bold;">32bit (2015년 7월 15일(수))</h4>
 <br/>
 <br/>
