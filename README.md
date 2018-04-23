@@ -17,10 +17,10 @@ GNU General Public License v2.0
 
 # Group structure
 
-## Board of directors (BOARD)
-## Committer
-## 개발자
-## 사용자
+* Board of directors (BOARD)
+* Committer
+* 개발자
+* 사용자
 
 # Roles
 
