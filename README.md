@@ -4,7 +4,7 @@
 <div class="document_1411_155 xe_content"><div><br></div>
 <div style="padding: 10px; border: 3px solid rgb(142, 180, 230); border-image: none; color: rgb(37, 37, 37); line-height: 22.39px; font-family: sans-serif; font-size: 14px; background-color: rgb(249, 252, 255);">
     <table width="100%" class="plainlinks ombox ombox-notice">
-      <tbody>
+      <tbody> 
         <tr>
           <td class="ombox-text"><div style="padding: 0.3em 0px; text-align: center; font-weight: bold; background-color: rgb(249, 252, 255);">
               <div align="left" style="font-size: 24px;"><span style="color: rgb(42, 114, 191);">﻿</span></div><div align="left" style="text-align: center; letter-spacing: -1px; font-size: 26px;"><h1 style="color: rgb(42, 114, 191);">이용 약관</h1></div>
