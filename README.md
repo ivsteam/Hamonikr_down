@@ -317,10 +317,14 @@
   </dl></div>
 
 <h4 style="font-weight: bold;">하모니카 커뮤니티 배포판 MoorDev MATE 64bit 1.0 (2017.12.11)</h4>
-File1 : https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-amd64-18.3-HWE.iso_171211/LinuxMint-ko-amd64-18.3-HWE.z01<br/>
-File2 : https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-amd64-18.3-HWE.iso_171211/LinuxMint-ko-amd64-18.3-HWE.z02<br/>
-File3 : https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-amd64-18.3-HWE.iso_171211/LinuxMint-ko-amd64-18.3-HWE.z03<br/>
-File4 : https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-amd64-18.3-HWE.iso_171211/LinuxMint-ko-amd64-18.3-HWE.zip<br/>
+<strong>File1 : </strong>https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-amd64-18.3-HWE.iso_171211/LinuxMint-ko-amd64-18.3-HWE.z01<br/>
+<br/>
+<strong>File2 : </strong>https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-amd64-18.3-HWE.iso_171211/LinuxMint-ko-amd64-18.3-HWE.z02<br/>
+<br/>
+<strong>File3 : </strong>https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-amd64-18.3-HWE.iso_171211/LinuxMint-ko-amd64-18.3-HWE.z03<br/>
+<br/>
+<strong>File4 : </strong>https://github.com/ivsteam/Hamonikr_down/releases/download/LinuxMint-ko-amd64-18.3-HWE.iso_171211/LinuxMint-ko-amd64-18.3-HWE.zip<br/>
+<br/>
 <br/>
 <br/>
 <br/>
