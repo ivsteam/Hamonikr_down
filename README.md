@@ -1,4 +1,4 @@
-<div><a href="http://hamonikr.org/menuDownload_RTM" target="_black">http://hamonikr.org/menuDownload_RTM</a></div>
+<div><a href="http://hamonikr.org/menuDownload_RTM" target="_blank">http://hamonikr.org/menuDownload_RTM</a></div>
 
 <div class="document_1411_155 xe_content"><div><br></div>
 <div style="padding: 10px; border: 3px solid rgb(142, 180, 230); border-image: none; color: rgb(37, 37, 37); line-height: 22.39px; font-family: sans-serif; font-size: 14px; background-color: rgb(249, 252, 255);">
