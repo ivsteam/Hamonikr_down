@@ -1,6 +1,6 @@
 <div class="document_1411_155 xe_content"><div><br></div>
 <div style="padding: 10px; border: 3px solid rgb(142, 180, 230); border-image: none; color: rgb(37, 37, 37); line-height: 22.39px; font-family: sans-serif; font-size: 14px; background-color: rgb(249, 252, 255);">
-    <table width="100%" height="696" class="plainlinks ombox ombox-notice">
+    <table width="100%" class="plainlinks ombox ombox-notice">
       <tbody>
         <tr>
           <td style="padding: 0px; border: currentColor; border-image: none; width: 1px;"><br></td>
@@ -312,4 +312,4 @@
   <p style="color: rgb(37, 37, 37); line-height: 22.39px; font-family: sans-serif; font-size: 14px; margin-top: 0.5em; margin-bottom: 0.5em; background-color: rgb(255, 255, 255);">이용 약관을 시간을 내어 읽어 주셔서 감사합니다. 회사는 사용자가 프로젝트에 기여하고 하모니카 서비스를 이용하여서 매우 기쁩니다. 기여함으로써 사용자는 정말로 거대한 어떤 것, 오픈소스에 접근하기 어려운 한국어 사용자에게 한국어 오픈소스를 제공하는 공동 제작 프로젝트의 중대한 집합체이자 매우 숭고한 목적 아래에 마음이 맞고 헌신적인 사람들의 활기찬 공동체를 만드는 데 일조합니다.</p>
   <dl style="color: rgb(37, 37, 37); line-height: 22.39px; font-family: sans-serif; font-size: 14px; margin-top: 0.2em; margin-bottom: 0.5em; background-color: rgb(255, 255, 255);">
     <dd style="line-height: 1.5em; margin-right: 0px; margin-bottom: 0.1em; margin-left: 1.6em;">&nbsp;    </dd>
-  </dl><div class="document_popup_menu"><a href="#popup_menu_area" class="document_1411" onclick="return false">이 게시물을</a></div></div>
+  </dl></div>
