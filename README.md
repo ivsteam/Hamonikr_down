@@ -33,7 +33,7 @@ GNU General Public License v2.0
 ## 개발자
 
 하모니카 프로젝트에 소스코드 패치를 제출하거나 문서를 기여하는 멤버입니다. 커뮤니티와 메일링 리스트를 통해 협력할 수 있습니다.
-[하모니카 커뮤니티 메일링리스트](https://groups.google.com/forum/?hl=ko#!forum/hamonikr-dev)
+[하모니카 커뮤니티 메일링리스트](https://groups.google.com/forum/#!forum/hamonikr-dev)
 
 ## Committer
 
