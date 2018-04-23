@@ -3,7 +3,6 @@
     <table width="100%" class="plainlinks ombox ombox-notice">
       <tbody>
         <tr>
-          <td style="padding: 0px; border: currentColor; border-image: none; width: 1px;"><br></td>
           <td class="ombox-text"><div style="padding: 0.3em 0px; text-align: center; font-weight: bold; background-color: rgb(249, 252, 255);">
               <div align="left" style="font-size: 24px;"><span style="color: rgb(42, 114, 191);">﻿</span></div><div align="left" style="text-align: center; letter-spacing: -1px; font-size: 26px;"><span style="color: rgb(42, 114, 191);">이용 약관</span></div>
               <div style="font-size: 17px;"></div>
