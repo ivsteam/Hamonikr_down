@@ -187,7 +187,8 @@ p {
 }
 .download-btn {
     margin-top: 90px;
-    margin-bottom: 50px
+    margin-bottom: 50px;
+    text-align: center;
 }
 .home-btn,
 .home-btn:focus,
