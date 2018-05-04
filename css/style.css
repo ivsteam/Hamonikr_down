@@ -88,7 +88,7 @@ p {
     margin-top: -100px
 }
 .navbar-brand {
-    padding: 9px 15px;
+    padding: 6px 15px;
 }
 @media(min-width:768px) {
     .navbar-default {
@@ -141,14 +141,15 @@ p {
     color: #f39c12;
 }
 .header {
-    background: url(../images/home.jpg);
+    background: url(../images/home1.jpg);
     background-size: cover;
 	background-repeat: no-repeat;
 }
 .header .section_overlay {
-    background-color: rgba(33, 33, 33, .75);
+    background-color: rgba(40, 40, 40, .75);
 }
 .logo{
+    padding-top: 20px;
     padding-bottom: 50px;
 }
 .home_text{
@@ -173,14 +174,14 @@ p {
 .home_text h1 {
     color: #fff;
     text-transform: uppercase;
-    font-size: 35px;
-    font-weight: 300;
+    font-size: 25px;
+    font-weight: 500;
     line-height: 45px;
     padding-top: 30px
 }
 .home_text p {
     color: #fff;
-    font-size: 17px;
+    font-size: 15px;
     line-height: 28px;
     margin-top: 0px;
     font-weight: 300;
