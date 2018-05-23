@@ -318,6 +318,7 @@ $(document).ready(function() {
 
 
 //VIDEO BACKGROUND
+/*
 $(document).ready(function() {
   var videobackground = new $.backgroundVideo($('body'), {
     "align": "centerXY",
@@ -328,3 +329,4 @@ $(document).ready(function() {
     "types": ["mp4","ogg","webm"]
   });
 });
+*/
