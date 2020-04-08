@@ -60,4 +60,54 @@
 //    }
 //  });
 
+
+//$(window).load(function(){
+  // element val
+  var ele_total = jQuery('#total_count');
+  var me_count = jQuery('#me_count');
+  var mdev_19_1_tessa_count = jQuery('#moordev_19_1_tessa_count');
+  var mdev_19_tara_2_0_count = jQuery('#moordev_19_tara_2_0_count');
+  var mdev_18_tara_1_0_count = jQuery('#moordev_18_tara_1_0_count');
+
+  // comma
+  function cf(x) {
+    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+  }
+
+  // get n set download count
+  function get_set_count(element, name){
+    if(element.text() != 'loading...') return;
+
+    // count val
+    var count_data;
+
+    jQuery.ajax({
+      url: 'https://hamonikr.org/linkfile/get_download_count.php?name=' + name,
+      dataType: 'json',
+      async : false,
+      success : function(data){
+        count_data = data[0].down_count;
+        jQuery(element).html(0);
+
+        jQuery({ val : 0 }).animate({ val : count_data }, {
+          duration : 600,
+          step : function(){
+            element.text(cf(Math.floor(this.val)));
+          },
+          complete : function(){
+            element.text(cf(Math.floor(this.val)));
+          }
+        });
+
+      },
+      error : function(data){
+        console.log(' - not connected download count');
+      }
+    });
+  }
+
+  // total count
+  get_set_count(ele_total, 'Total');
+//});
+
 })(jQuery); // End of use strict
