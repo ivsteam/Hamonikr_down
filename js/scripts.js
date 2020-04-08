@@ -61,7 +61,7 @@
 //  });
 
 
-//$(window).load(function(){
+$(window).on('load', function(){
   // element val
   var ele_total = jQuery('#total_count');
   var me_count = jQuery('#me_count');
@@ -84,7 +84,7 @@
     jQuery.ajax({
       url: 'https://hamonikr.org/linkfile/get_download_count.php?name=' + name,
       dataType: 'json',
-      async : false,
+      async : true,
       success : function(data){
         count_data = data[0].down_count;
         jQuery(element).html(0);
@@ -108,6 +108,6 @@
 
   // total count
   get_set_count(ele_total, 'Total');
-//});
+});
 
 })(jQuery); // End of use strict
